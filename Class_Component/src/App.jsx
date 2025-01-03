@@ -23,7 +23,6 @@ class App extends React.Component{
       <p>{this.state.color}</p>
       <p>{this.state.size}</p>
       <p>{this.state.name}</p>
-
     </div>
     )
   }
